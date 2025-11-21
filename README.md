@@ -23,8 +23,11 @@ It was developed using **React**, **Vite**, and **TailwindCSS** as part of an ac
 - `/src/mockData.js` – Mock dataset representing municipal documents
 
 ## How to run
+cd ~/Desktop/municipal-archive
 npm install
 npm run dev
+
+
 
 ## Purpose
 The goal of this project is to demonstrate core UX flows using low-fidelity wireframes, improved wireframes, and a working prototype.
